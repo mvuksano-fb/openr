@@ -153,5 +153,3 @@ docker run --name openr --network host openr_ubuntu
 ### License
 
 OpenR is [MIT licensed](./LICENSE).
-
-
